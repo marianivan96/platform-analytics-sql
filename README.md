@@ -2,7 +2,7 @@
 
 A library of production SQL queries used to analyse user behaviour across a multi-ecosystem platform — covering the full funnel from acquisition through to retention, plus content performance, search behaviour, and growth flags.
 
-All queries are written in MySQL and built around a real platform with 8 ecosystems and 29,000+ users.
+All queries are written in MySQL and built around a real platform with 8 ecosystems and 500,000+ users.
 
 ---
 
